@@ -1,5 +1,5 @@
 # Books for Devs and Designers
-36 libros para aprender diferentes tecnologias, superacion personal, cibersegruidad etc.
+44 libros para aprender diferentes tecnologias, superacion personal, cibersegruidad etc.
 Al margen de todo el contenido que hay ahora en internet, cursos, videos, bootcamps,etc.
 Hay gente que aun prefiere la manera de estudiar mas clasica de estudiar que es mediante libros.
 Es por eso que hoy te dejo 20 libros con diferente contenido para que puedas aprender o repasar algunos conceptos.
